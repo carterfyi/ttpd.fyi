@@ -1,2 +1,2 @@
-# ttyd.fyi
-ttyd.fyi
+# ttpd.fyi
+ttpd.fyi
